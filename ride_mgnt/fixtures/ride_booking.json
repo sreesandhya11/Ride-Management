@@ -1,0 +1,28 @@
+[
+ {
+  "booking_date": "2025-07-10",
+  "customer": "Test Customer 3",
+  "customer_name": "Test Customer 3",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimate_km": 9.0,
+  "make": "Kia",
+  "modified": "2025-07-10 17:06:37.872349",
+  "name": "Ride 1-2025-0001",
+  "phone_number": "9012345678",
+  "price_per_km": 10.0,
+  "return_date": "2025-07-11",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Ride 1-2025-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": "1590",
+  "type": "Car",
+  "vehicle": "Ride 1"
+ }
+]

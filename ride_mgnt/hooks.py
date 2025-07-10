@@ -227,6 +227,6 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
-# fixture = {
+# fixtures = [
 #     "Customer", "Item", "Ride Booking", "Vehicle Ride"
-# }
+# ]

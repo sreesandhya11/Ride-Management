@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/Screenshot from 2025-05-09 16-40-35.png",
+  "make": "Ather",
+  "modified": "2025-07-10 16:32:08.013178",
+  "name": "Ride 2",
+  "price_per_km": 5.0,
+  "type": "Bike"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/Screenshot from 2025-05-09 16-40-35.png",
+  "make": "Swift Dzire",
+  "modified": "2025-07-10 16:32:50.150989",
+  "name": "Ride 3",
+  "price_per_km": 10.0,
+  "type": "Car"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/redroadicon.png",
+  "make": "Kia",
+  "modified": "2025-07-10 16:31:18.804241",
+  "name": "Ride 1",
+  "price_per_km": 10.0,
+  "type": "Car"
+ }
+]
